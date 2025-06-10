@@ -1,0 +1,15 @@
+D:\.NET\Fun Projects\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\.NET\Fun Projects\Repository\bin\Debug\net8.0\Repository.dll
+D:\.NET\Fun Projects\Repository\bin\Debug\net8.0\Repository.pdb
+D:\.NET\Fun Projects\Repository\bin\Debug\net8.0\Books.dll
+D:\.NET\Fun Projects\Repository\bin\Debug\net8.0\Books.pdb
+D:\.NET\Fun Projects\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\.NET\Fun Projects\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Fun Projects\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\.NET\Fun Projects\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\.NET\Fun Projects\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\.NET\Fun Projects\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\.NET\Fun Projects\Repository\obj\Debug\net8.0\Repository.dll
+D:\.NET\Fun Projects\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\.NET\Fun Projects\Repository\obj\Debug\net8.0\Repository.pdb
+D:\.NET\Fun Projects\Repository\obj\Debug\net8.0\ref\Repository.dll

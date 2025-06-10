@@ -1,0 +1,11 @@
+D:\.NET\Fun Projects\Books\bin\Debug\net8.0\Books.deps.json
+D:\.NET\Fun Projects\Books\bin\Debug\net8.0\Books.dll
+D:\.NET\Fun Projects\Books\bin\Debug\net8.0\Books.pdb
+D:\.NET\Fun Projects\Books\obj\Debug\net8.0\Books.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Fun Projects\Books\obj\Debug\net8.0\Books.AssemblyInfoInputs.cache
+D:\.NET\Fun Projects\Books\obj\Debug\net8.0\Books.AssemblyInfo.cs
+D:\.NET\Fun Projects\Books\obj\Debug\net8.0\Books.csproj.CoreCompileInputs.cache
+D:\.NET\Fun Projects\Books\obj\Debug\net8.0\Books.dll
+D:\.NET\Fun Projects\Books\obj\Debug\net8.0\refint\Books.dll
+D:\.NET\Fun Projects\Books\obj\Debug\net8.0\Books.pdb
+D:\.NET\Fun Projects\Books\obj\Debug\net8.0\ref\Books.dll
