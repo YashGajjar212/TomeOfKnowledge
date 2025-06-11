@@ -12,4 +12,9 @@ builder.Services.AddDbContext<TOKDBContext>(options =>
 
 var app = builder.Build();
 
+app.MapControllerRoute(
+    name : "Book",
+    pattern: "{controller=Book}/{action=GetAllBooks}"
+    );
+
 app.Run();

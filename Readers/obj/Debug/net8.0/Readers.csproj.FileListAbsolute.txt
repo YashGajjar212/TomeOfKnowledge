@@ -9,3 +9,15 @@ D:\.NET\Fun Projects\Readers\obj\Debug\net8.0\Readers.dll
 D:\.NET\Fun Projects\Readers\obj\Debug\net8.0\refint\Readers.dll
 D:\.NET\Fun Projects\Readers\obj\Debug\net8.0\Readers.pdb
 D:\.NET\Fun Projects\Readers\obj\Debug\net8.0\ref\Readers.dll
+D:\.NET\Fun Projects\Library_Application\Readers\bin\Debug\net8.0\Readers.deps.json
+D:\.NET\Fun Projects\Library_Application\Readers\bin\Debug\net8.0\Readers.dll
+D:\.NET\Fun Projects\Library_Application\Readers\bin\Debug\net8.0\Readers.pdb
+D:\.NET\Fun Projects\Library_Application\Readers\obj\Debug\net8.0\Readers.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Fun Projects\Library_Application\Readers\obj\Debug\net8.0\Readers.AssemblyInfoInputs.cache
+D:\.NET\Fun Projects\Library_Application\Readers\obj\Debug\net8.0\Readers.AssemblyInfo.cs
+D:\.NET\Fun Projects\Library_Application\Readers\obj\Debug\net8.0\Readers.csproj.CoreCompileInputs.cache
+D:\.NET\Fun Projects\Library_Application\Readers\obj\Debug\net8.0\Readers.sourcelink.json
+D:\.NET\Fun Projects\Library_Application\Readers\obj\Debug\net8.0\Readers.dll
+D:\.NET\Fun Projects\Library_Application\Readers\obj\Debug\net8.0\refint\Readers.dll
+D:\.NET\Fun Projects\Library_Application\Readers\obj\Debug\net8.0\Readers.pdb
+D:\.NET\Fun Projects\Library_Application\Readers\obj\Debug\net8.0\ref\Readers.dll
