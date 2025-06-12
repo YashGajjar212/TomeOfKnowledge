@@ -1,16 +1,23 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Books.Integration.Interface;
+using Microsoft.AspNetCore.Mvc;
 
 namespace TomeOfKnowledge.Controllers
 {
     public class BookController : Controller
     {
-        // add ready field that will be injected in controller
+        private readonly IGetAllBooks _getAllBooks;
 
-        // add a controller and inject the service interface
-        public IActionResult GetAllBooks()
+        public BookController(IGetAllBooks getAllBooks)
         {
-            return View();
+            _getAllBooks = getAllBooks;
+        }
+
+        [HttpGet]
+        public void GetAllBooks()
+        {
+            var books = _getAllBooks.GetAllBooksFromDatabase();
             // Call Service Call
+            // what happens if I just add this comment
         }
     }
 }
